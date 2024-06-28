@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+images
+.idea
+*ghostdriver.log
+.vscode
+download_images
+build
+dist
